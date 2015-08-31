@@ -1,0 +1,12 @@
+(lp0
+S'apple'
+p1
+aS'pear'
+p2
+aS'rice'
+p3
+aS'fruit'
+p4
+aS'salt'
+p5
+a.
